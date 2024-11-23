@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94483887570",
+    "project_id": "contrasena123-11ae3",
+    "storage_bucket": "contrasena123-11ae3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94483887570:android:ea57f1ca3da6812589840b",
+        "android_client_info": {
+          "package_name": "com.example.contrasena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DFVGHUalq2fBG86-ACJ1XqembY5KE9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
